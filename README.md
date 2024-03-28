@@ -9,3 +9,5 @@ Here is **proof** that the method works:
 **https://youtu.be/fNuD_Wk9J40**
 
 The code can be provided in any programming language needed.
+
+You can test the code here: https://maintenancebypass.com
